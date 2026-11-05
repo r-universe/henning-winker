@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/henning-winker/henning-winker.r-universe.dev
 	branch = HEAD
+[submodule "FLOSS"]
+	path = FLOSS
+	url = https://github.com/Henning-Winker/FLOSS
+[submodule "FLicc"]
+	path = FLicc
+	url = https://github.com/Henning-Winker/FLicc
+[submodule "JABBA3"]
+	path = JABBA3
+	url = https://github.com/Henning-Winker/JABBA3
+[submodule "cpueTargeting"]
+	path = cpueTargeting
+	url = https://github.com/Henning-Winker/cpueTargeting
+[submodule "mmsyFM"]
+	path = mmsyFM
+	url = https://github.com/Henning-Winker/mmsyFM
